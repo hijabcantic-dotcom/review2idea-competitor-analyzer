@@ -8,7 +8,7 @@ This is a research shortcut, not a demand-validation tool. App reviews can surfa
 
 ## Install locally
 
-1. Download the latest release source archive or clone this repository.
+1. Download the `review2idea-competitor-analyzer-*.zip` asset from the latest release, or clone this repository.
 2. Open `chrome://extensions` in Chrome.
 3. Enable **Developer mode**.
 4. Select **Load unpacked** and choose the folder containing `manifest.json`.
