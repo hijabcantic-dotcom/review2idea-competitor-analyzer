@@ -1,0 +1,63 @@
+:root {
+  color: #102a2c;
+  background: #f7faf8;
+  font-family: Arial, sans-serif;
+}
+
+body {
+  margin: 0;
+  min-width: 300px;
+}
+
+main {
+  padding: 20px;
+}
+
+.logo {
+  width: 32px;
+  height: 32px;
+}
+
+h1 {
+  margin: 12px 0 8px;
+  font-size: 19px;
+}
+
+p {
+  margin: 0 0 18px;
+  color: #52636a;
+  font-size: 13px;
+  line-height: 1.45;
+}
+
+button,
+a {
+  box-sizing: border-box;
+  display: block;
+  width: 100%;
+  min-height: 42px;
+  border-radius: 8px;
+  font-size: 14px;
+  font-weight: 700;
+  text-align: center;
+}
+
+button {
+  border: 0;
+  background: #4fd1c5;
+  color: #102a2c;
+  cursor: pointer;
+}
+
+button:disabled {
+  cursor: not-allowed;
+  opacity: 0.45;
+}
+
+a {
+  margin-top: 9px;
+  border: 1px solid #d6e1de;
+  color: #102a2c;
+  line-height: 40px;
+  text-decoration: none;
+}
