@@ -2,7 +2,7 @@
 
 Turn the App Store or Google Play page you are already viewing into a review-research starting point.
 
-The extension reads only the active tab when you open it. On a public app listing, it opens [Review2Idea](https://review2idea.com/en/free-app-review-analysis-tool) with the competitor URL prefilled. Review2Idea then groups public reviews into evidence-linked recurring problems, hypotheses to test, and customer-interview prompts.
+The extension reads only the active tab when you open it. On a public app listing, it opens [Review2Idea](https://review2idea.com/en/free-app-review-analysis-tool?utm_source=github&utm_medium=referral&utm_campaign=competitor_analyzer) with the competitor URL prefilled. Review2Idea then groups public reviews into evidence-linked recurring problems, hypotheses to test, and customer-interview prompts.
 
 This is a research shortcut, not a demand-validation tool. App reviews can surface questions worth investigating; they cannot prove market size, willingness to pay, or a product roadmap.
 
@@ -27,4 +27,4 @@ No build step is required. Edit the files in this repository, reload the unpacke
 
 ## Support
 
-For product research, use the [free app review analysis tool](https://review2idea.com/en/free-app-review-analysis-tool). For issues with this extension, open a GitHub issue.
+For product research, use the [free app review analysis tool](https://review2idea.com/en/free-app-review-analysis-tool?utm_source=github&utm_medium=referral&utm_campaign=competitor_analyzer). For issues with this extension, open a GitHub issue.
