@@ -2,8 +2,8 @@
   "manifest_version": 3,
   "name": "Review2Idea: Competitor Review Analyzer",
   "description": "Send any App Store or Google Play competitor page to Review2Idea for evidence-led review analysis.",
-  "version": "1.0.0",
-  "homepage_url": "https://review2idea.com/en/free-app-review-analysis-tool?utm_source=github&utm_medium=referral&utm_campaign=competitor_analyzer",
+  "version": "1.0.1",
+  "homepage_url": "https://review2idea.com/en/free-app-review-analysis-tool?utm_source=chrome_web_store&utm_medium=referral&utm_campaign=competitor_analyzer",
   "icons": {
     "16": "icon-16.png",
     "48": "icon-48.png",
